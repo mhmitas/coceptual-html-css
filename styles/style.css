@@ -22,7 +22,7 @@ h1{
     font-weight: 900;
     font-family: cursive;
     padding-top: 60px;
-    word-spacing: 40px;
+    word-spacing: 150px;
     letter-spacing: 20px;
 }
 .article{
@@ -32,7 +32,7 @@ h1{
     background-color: rgb(249, 226, 197);
     padding: 60px;
 }
-.article h2{
+.article h2, #cow-type {
     text-align: center;
     font-size: 48px;
     border-bottom: 5px solid brown;
@@ -43,7 +43,7 @@ h1{
     font-size: 20px;
     line-height: 2em;
 }
-.article p .imp{
+/* .article p .imp{ */
     font-size: 2em;
     background-color: yellow;
     width: 600px;
