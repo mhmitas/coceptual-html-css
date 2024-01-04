@@ -9,14 +9,14 @@ h1{
 }
 
 .hero{
-    background-image: url('../images/blackcow.jpg');
+    background-image: url('../images/redcow.jpg');
     background-position: bottom center;
     background-size: cover;
     height: 100vh;
     padding: 100px;
 }
 .hero h1{
-    color: rgb(254, 252, 249);
+    color: rgb(255, 74, 74);
     font-size: 100px;
     text-align: center;
     font-weight: 900;
@@ -25,21 +25,12 @@ h1{
     word-spacing: 40px;
     letter-spacing: 20px;
 }
-.article , #cow-type{
+.article{
     width: 80%;
     text-align: justify;
-    /* margin-left: auto; */
-    /* margin-right: auto; */
-    /* upore nice auto dile colbe na */
-    /* margin-top: 50px; */
-    /* margin-bottom: 50px; */
     margin: 20px auto;
     background-color: rgb(249, 226, 197);
     padding: 60px;
-    /* border-width: 15px; */
-    /* border-color: brown; */
-    /* border-style: groove; */
-    border: 15px groove black;
 }
 .article h2{
     text-align: center;
